@@ -66,31 +66,14 @@
 
 <h3 align="left">Tools :</h3>
 <p align="left">
-
-<!-- Postman -->
 <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-
-<!-- VS Code -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-
-<!-- Cypress -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-
-<!-- MySQL -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-
-<!-- OWASP ZAP -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-
-<!-- Burp Suite -->
 <a href="#"><img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-
-<!-- Figma -->
 <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-
-<!-- Jira -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/></a>
-
 </p>
 
 
