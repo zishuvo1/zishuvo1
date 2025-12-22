@@ -66,15 +66,32 @@
 
 <h3 align="left">Tools :</h3>
 <p align="left">
-<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/></a>
+<a href="https://postman.com">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.cypress.io/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://portswigger.net/burp">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.zaproxy.org/">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.figma.com/">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.atlassian.com/software/jira">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/>
+</a>
 </p>
+
 
 
 <br>
