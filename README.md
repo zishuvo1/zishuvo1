@@ -64,9 +64,9 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zishuvo1&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zishuvo1&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zishuvo1&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zishuvo1&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zishuvo1)
 
