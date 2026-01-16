@@ -119,16 +119,10 @@
 
 </div>
 
-<br>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zishuvo1&theme=tokyonight" />
+</p>
 
-<div align="left">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=zishuvo1" target="_blank">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zishuvo1" style="height: 200px;" />
-</a>
-</div>
-
-<br>
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=zishuvo1&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zishuvo1&label=Profile%20views&color=blue&style=flat" />
+</p>
