@@ -1,128 +1,80 @@
-<br>
 <h1 align="center">Hi 👋, I'm Md. Zahidul Islam</h1>
 <h3 align="center">Software Quality Assurance (SQA) Engineer</h3>
 
-<br>
+---
 
 🔭 Experience in **Manual Testing & API Testing**  
-
 🌱 Currently learning **Automation Testing (Selenium)**  
-
 💬 Ask me about **Software QA, Manual Testing, API Testing, Test Case Design, Bug Reporting**  
-
 📫 How to reach me: **zahidul0401@gmail.com**  
-
-📄 View my detailed CV:  
-👉 https://linkedin.com/in/zishuvo95  
-
-👉 Check out all my projects:  
-🔗 https://github.com/zishuvo1?tab=repositories  
-
+📄 View my CV: https://linkedin.com/in/zishuvo95  
+🔗 Projects: https://github.com/zishuvo1?tab=repositories  
 ⚡ Fun fact: I enjoy finding bugs more than creating them 😄  
 
-<h3> Skills & Proficiencies </h3>
+---
 
-📘 Manual Testing: Functional, Regression, UI Testing, STLC, SDLC, Test Case Design, Bug Reporting  
+## 🧠 Skills & Proficiencies
 
-📗 API Testing Tool: Postman  
+- **Manual Testing:** Functional, Regression, UI Testing, STLC, SDLC  
+- **API Testing:** Postman  
+- **Management Tools:** Jira, Trello  
+- **Database:** MySQL  
+- **Automation:** Selenium WebDriver  
+- **Programming:** Java, JavaScript, Python, SQL, HTML  
+- **OS:** Windows, Linux  
 
-📗 Project Management Tool: Jira, Trello  
+---
 
-📗 Database Tool: MySQL  
-
-📗 Automation Tool: Selenium WebDriver  
-
-📗 Programming & Query: Java, JavaScript, Python, SQL, HTML  
-
-📗 Operating System: Windows, Linux  
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with me
 <p align="left">
-
-<a href="https://linkedin.com/in/zishuvo95" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/zishuvo1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
-
+  <a href="https://linkedin.com/in/zishuvo95">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://github.com/zishuvo1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
+  </a>
 </p>
 
-<br>
+---
 
-<h3 align="left">Languages :</h3>
+## 💻 Languages
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 </p>
 
+---
 
-<br>
-
-<h3 align="left">Tools :</h3>
+## 🛠 Tools
 <p align="left">
-<a href="https://postman.com">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.cypress.io/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://portswigger.net/burp">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.zaproxy.org/">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.figma.com/">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.atlassian.com/software/jira">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/>
-</a>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
 </p>
 
+---
 
-
-<br>
-
-<div style="display: flex; justify-content: space-between;">
-
-<a href="https://github-readme-stats.vercel.app/api?username=zishuvo1&show_icons=true" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=zishuvo1&show_icons=true" style="height: 200px;"/>
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=zishuvo1&layout=compact" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zishuvo1&layout=compact" style="height: 200px;"/>
-</a>
-
-</div>
-
+## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zishuvo1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zishuvo1&show_icons=true" height="180"/>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zishuvo1&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zishuvo1&layout=compact" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zishuvo1&theme=tokyonight"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zishuvo1&label=Profile%20views&color=blue&style=flat"/>
 </p>
