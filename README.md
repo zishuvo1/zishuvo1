@@ -1,77 +1,66 @@
-<h1 align="center">Hi 👋, I'm Md. Zahidul Islam</h1>
-<h3 align="center">Software Quality Assurance (SQA) Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,45&height=180&section=header&text=Hi%20👋,%20I'm%20Md.%20Zahidul%20Islam&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
+  <h3>🚀 Software Quality Assurance (SQA) Engineer</h3>
+  <p>Ensuring Software Reliability through Manual, Automation & API Testing</p>
+
+  <p>
+    <a href="https://linkedin.com/in/zishuvo95"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://mdzahidul.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="mailto:zahidul0401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+</div>
 
 ---
 
-🔭 Experience in **Manual Testing & API Testing**  
-🌱 Currently learning **Automation Testing (Selenium)**  
-💬 Ask me about **Software QA, Manual Testing, API Testing, Test Case Design, Bug Reporting**  
-📫 How to reach me: **zahidul0401@gmail.com**  
-📄 View my CV: https://linkedin.com/in/zishuvo95  
-🔗 Projects: https://github.com/zishuvo1?tab=repositories  
-⚡ Fun fact: I enjoy finding bugs more than creating them 😄  
+### ⚡ About Me
+* 🔭 **Focus Areas:** Manual Testing, API Testing, UI/Web Automation
+* 🧪 **Testing Expertise:** Functional, Regression, Smoke, Sanity, STLC, SDLC
+* 🌱 **Current Stack:** Automation Testing with **Selenium**, **Cypress** & **Playwright**
+* 💬 **Ask Me About:** Test Case Design, Bug Reporting, Postman, Web Automation
+* 🎯 **Goal:** Building bug-free, seamless, and high-performance digital experiences
 
 ---
 
-## 🧠 Skills & Proficiencies
+### 🛠️ Skills & Technologies
 
-- **Manual Testing:** Functional, Regression, UI Testing, STLC, SDLC  
-- **API Testing:** Postman  
-- **Management Tools:** Jira, Trello  
-- **Database:** MySQL  
-- **Automation:** Selenium WebDriver  
-- **Programming:** Java, JavaScript, Python, SQL, HTML  
-- **OS:** Windows, Linux  
+**Testing & Automation**
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+</p>
 
----
-
-## 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/zishuvo95">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://github.com/zishuvo1">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
-  </a>
+**Languages & Database**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-</p>
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zishuvo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zishuvo1&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zishuvo1&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🛠 Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zishuvo1&show_icons=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zishuvo1&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zishuvo1)
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=zishuvo1&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zishuvo1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
