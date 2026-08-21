@@ -49,14 +49,15 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zishuvo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zishuvo1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zishuvo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zishuvo1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zishuvo1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zishuvo1&theme=tokyonight&no-frame=true&no-bg=false&margin_w=4" alt="GitHub Trophies" />
 </div>
 
 ---
